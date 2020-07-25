@@ -4,7 +4,7 @@ from tkinter import ttk
 def main():
     root = tk.Tk() # Main Window
     root.title("Store Manager")
-    root.geometry("500x500")
+    root.geometry("1280x720")
     root.iconbitmap("store-icon.ico")
 
     ### Sale Order Button ###
